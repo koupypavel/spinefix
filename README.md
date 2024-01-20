@@ -1,12 +1,13 @@
 
 # SpineFix
+
+Simple ESP32-S3-mini  posture corrector. Corrector uses accelerometr to check how straight you standing or sitting and based on usually user set boundaries it vibrates, if you cross set boundary....
+
   <img
   src="/doc/spinefix.jpg"
   alt="Alt text"
   title="img"
   style=" width: 80%; height: 450px"><img>
-  
-Simple ESP32-S3-mini  posture corrector
 
 - ESP-c3-mini => https://www.laskakit.cz/laskakit-microesp/
 - ADXL345 => https://www.laskakit.cz/triosy-akcelerometr-gy-291-s-adxl345--i2c-spi-/
